@@ -7,7 +7,7 @@ This repository contains an automated testing framework designed to evaluate the
 The primary goal of this project is to automate the validation of 50 test cases using **Playwright** and **Python**. The script reads test data from an Excel file, interacts with the web interface, and records the actual translation output and pass/fail status directly back into the Excel sheet.
 
 **Author Information:**
-*   **Student Name:** Minuri Sewmini
+*   **Student Name:** SEWMINI A A M Y
 *   **Student ID:** IT23602946
 
 ## 📂 Project Structure
